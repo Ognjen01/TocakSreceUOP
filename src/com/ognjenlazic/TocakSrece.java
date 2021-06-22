@@ -11,7 +11,7 @@ public class TocakSrece extends JFrame{
     private JLabel pitanje;
 
     public TocakSrece(List<String> listaPitanja) {
-        setSize(600, 300);
+        setSize(1000, 300);
         setTitle("Točak Sreće UOP");
         setLocationRelativeTo(null);
 
@@ -20,7 +20,7 @@ public class TocakSrece extends JFrame{
         zavrtiTocakPronadjiPitanjeButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                int indexPitanja = (int) ((Math.random() * (66 - 0)) + 0);
+                int indexPitanja = (int) ((Math.random() * (listaPitanja.size() - 0)) + 0);
                 System.out.println(pitanje);
 
                 String izvucenoPitanje = listaPitanja.get(indexPitanja);
