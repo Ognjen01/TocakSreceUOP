@@ -1,0 +1,66 @@
+Šta je objekat, šta je klasa, i veza između ta dva pojma?
+koji su osnovni principi OOP i objasni ih?
+Šta je princip enkapsulacija?
+Princip nasleđivanja (detaljno)? Navesti primere
+Konstruktori (šta su, kako izgledaju u kodu, koji postoje)?
+Zašto postoje modifikatori pristupa? Gde se sve navode modifikatori pristupa? Koji su modifikatori pristupa u Javi?
+Šta je properti?
+Apstraktne klase, šta su, da li apstraktna klasa mora da ima apstraktne metode, da li apstraktna klasa može da nasledi apstraktnu klasu? Navesti primer apstraktne klase
+Šta su interfejsi, razlika između interfejsa (u javi 1.7 i javi 1.8)?
+Ključna reč static, šta omogućava, detaljno o statičkim atributima i metodama?
+Opiši statički blok (šta je, kada se poziva, pre ili posle konstruktora)?
+Ključna reč final, gde se sve koristi/ispred čega navodi i šta znači u različitim scenarijima upotrebe?
+Razlika između apstraktnih klasa i interfejsa?
+Polimorfizam, šta je, šta nam omogućava i koji postoji, opiši ih i navesti primere?
+Kako se implementira Compile time polimorfizam?
+Kako se implementira runtime polymorphism?
+Dinamičko (late binding) i statičko(early binding) povezivanje?
+Ključna reč super, šta omogućuje, gde se sve može pozvati?
+Redosled pozivanja konstruktora kod nasleđivanja?
+Šta je metoda i čemu služi?
+Opis definicije i tela metode? šta mora da se poklopi? gde ne sme da bude kod?
+Opseg vidljivosti promenljivih?
+Šta se dešava pri prosleđivanju primitivnog tipa funkciji, a šta pri prosleđivanju objekta funkciji? Prenos parametara u Javi?
+Kako se odvija tok misli kada treba da napišem neku funkciju? O čemu sve treba da se vodi računa. Ovo je pitanje više onako kako to neko vidi, da opiše taj proces.
+Šta je overriding, a šta overloading?
+++ operator (left i right) prefiksni u sufiksni oblik, razlike između njih?
+Šta omogućava operator instance of?
+Šta je SOLID i objasniti neki od njegovih principa?
+Izuzeci (šta su, koje su dve osnovne vrste, objasniti detaljno svaku + primeri)?
+Šta je exception a sta error?
+U metodi u kojem korisnik unosi podatke u fajl, gde bi stavio naredbu za zatvaranje toka/pisača?
+Objasniti rezervisanu reč throws?
+Šta je String, gde se čuvaju njegove vrednosti, da li može da se izmeni?
+Konkatenacija stringova u for petlji i problemi koji nastaju?
+Korišćenje klase StringBuilder i StringBuffer?
+Za objekat klase String šta je rezultat metode replaceAll i metode concat?
+Koji tokovi postoje u javi? Šta prenose? Uporedi ih
+Šta ispravljaju tekstualni tokovi u odnosu na binarne?
+Klasa File
+Klasa Files
+Kada je poželjno učitavati podatke korišćenjem klase Files?
+Razlika između Input/Output Stimova i Reader-a i Writera?
+Razlika između OtputStream-a i Writera?
+Šta su nizovi?
+Šta su jagged arrays?
+Šta je kolekcija, koje implementacije u Javi postoje, kada se koja koristi?
+Dodavanje i uklanjanje elemenata iz kolekcija?
+Kolekcije (navesti primer za korišćenje seta i mape)?
+Kolekcije (navesti primer za korišćenje liste i mape)?
+Iteriranje kroz kolekcije ide preko čega? Kako to izgleda u kodu?
+Java generics (zašto je uveden, šta omogućava, na primeru tipizirane i ne tipizirane liste)?
+Razlika između Map i HashMap?
+Razlika između Vectora i ArrayListe
+Razlike između ArrayListe i LinkedList, prednosti i mane
+Kada ne bi trebalo koristiti ArrayList, tj. njena mana u odnosu na druge kolekcije tipa lista?
+Zašto se HashMap baš zove HashMap (detaljno o hash i equals, ako su dva objekta jednaka po hash da li to znači da su jednaka po equals i obrnuto)
+Koji tip vraća hash funkcija
+Šta je immutabilni objekat?
+Kako jednu klasu možemo učiniti immutabilnom?
+Šta je JVM? Razlika između JDK i JRE?
+classpath (šta je, da li mogu da koristim neku biblioteku ako nije u classpath-u)?
+Alociranje memorije kod rada sa objektima, heap vs stack, referenca vs vrednost.
+Izgled memorije u javi?
+Plika vs duboka kopija?
+Oslobađanje memorije u Javi (ko radi, kako radi se oslobađanje memorije za objekte)?
+Šta su asocijacija, agregacija i kompozicija? Navesti primere
